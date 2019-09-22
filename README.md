@@ -1,6 +1,6 @@
-# bmi
+# BMI Calculator
 
-A new Flutter project.
+With this BMI Calculator, you can calculate and evaluate your Body Mass Index (BMI) based on the relevant information on body weight, height, age. Check your body stats to find your ideal weight, because overweight and obesity are risk factors for diseases such as hypertension, heart disease, and diabetes.
 
 ## Getting Started
 
